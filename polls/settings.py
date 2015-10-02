@@ -78,8 +78,8 @@ DATABASES = {
     'default': {
         'ENGINE': 'mysql.connector.django',
         'NAME': 'abdacoco_djangoFun',
-        'USER': 'abdacoco_stuff',
-        'PASSWORD': 'seven77',
+        'USER': '',
+        'PASSWORD': '',
         'HOST': '',
         'PORT': '',
         'OPTIONS': {
